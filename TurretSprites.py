@@ -29,40 +29,6 @@ class Turret(pygame.sprite.Sprite):
         self.targeting_type = self.stats[5] # useful for targeting
         self.bullet_limit = self.stats[6]
         self.shoots_at_front = self.stats[6]
-        '''
-        self.image1 = pygame.image.load("Images/Towers/new towers/basic gun1.png").convert()
-        self.image2 = pygame.image.load("Images/Towers/new towers/basic gun2.png").convert()
-        self.image3 = pygame.image.load("Images/Towers/new towers/basic gun3.png").convert()
-        self.image4 = pygame.image.load("Images/Towers/new towers/basic gun4.png").convert()
-        self.image5 = pygame.image.load("Images/Towers/new towers/basic gun5.png").convert()
-        self.image6 = pygame.image.load("Images/Towers/new towers/basic gun6.png").convert()
-        self.image7 = pygame.image.load("Images/Towers/new towers/basic gun7.png").convert()
-        self.image8 = pygame.image.load("Images/Towers/new towers/basic gun8.png").convert()
-        self.image9 = pygame.transform.rotate(self.image1, 90)
-        self.image10 = pygame.transform.rotate(self.image2, 90)
-        self.image11 = pygame.transform.rotate(self.image3, 90)
-        self.image12 = pygame.transform.rotate(self.image4, 90)
-        self.image13 = pygame.transform.rotate(self.image5, 90)
-        self.image14 = pygame.transform.rotate(self.image6, 90)
-        self.image15 = pygame.transform.rotate(self.image7, 90)
-        self.image16 = pygame.transform.rotate(self.image8, 90)
-        self.image17 = pygame.transform.rotate(self.image1, 180)
-        self.image18 = pygame.transform.rotate(self.image2, 180)
-        self.image19 = pygame.transform.rotate(self.image3, 180)
-        self.image20 = pygame.transform.rotate(self.image4, 180)
-        self.image21 = pygame.transform.rotate(self.image5, 180)
-        self.image22 = pygame.transform.rotate(self.image6, 180)
-        self.image23 = pygame.transform.rotate(self.image7, 180)
-        self.image24 = pygame.transform.rotate(self.image8, 180)
-        self.image25 = pygame.transform.rotate(self.image1, 270)
-        self.image26 = pygame.transform.rotate(self.image2, 270)
-        self.image27 = pygame.transform.rotate(self.image3, 270)
-        self.image28 = pygame.transform.rotate(self.image4, 270)
-        self.image29 = pygame.transform.rotate(self.image5, 270)
-        self.image30 = pygame.transform.rotate(self.image6, 270)
-        self.image31 = pygame.transform.rotate(self.image7, 270)
-        self.image32 = pygame.transform.rotate(self.image8, 270)
-        '''
         self.rect = self.image.get_rect() # get it, just get it
 
         grid_position = snap_to_grid(position)
