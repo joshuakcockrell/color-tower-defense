@@ -32,6 +32,7 @@ or email us at:
 
 madcloudgames@gmail.com
 
-http://pygame.org/shots/1688.png
+![alt tag](http://pygame.org/shots/1688.png)
+
 
 -100% CLEAN award granted by Softpedia- "Color Tower Defense has been tested in the Softpedia labs using several industry-leading security solutions and found to be completely clean of adware/spyware components." http://mac.softpedia.com/progClean/Color-Tower-Defense-Clean-88286.html
