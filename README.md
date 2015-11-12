@@ -27,12 +27,8 @@ the source download runs on mac and windows
 run Color Tower Defense.py
 
 Follow our progress at: 
-
 http://madcloudgames.blogspot.com/
 
 or email us at: 
-
 madcloudgames@gmail.com
 
-
--100% CLEAN award granted by Softpedia- "Color Tower Defense has been tested in the Softpedia labs using several industry-leading security solutions and found to be completely clean of adware/spyware components." http://mac.softpedia.com/progClean/Color-Tower-Defense-Clean-88286.html
